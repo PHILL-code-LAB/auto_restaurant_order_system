@@ -8,11 +8,7 @@ import pandas as pd
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from datetime import datetime
-#基本用 Class & ID 
 
-# def func(chrome_path, ID, password, people, date, dining_time):
-
-    # your code below
     
 import time, datetime
 
